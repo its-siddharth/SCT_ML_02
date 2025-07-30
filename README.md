@@ -43,8 +43,7 @@ CustomerSegmentationApp/
 💻 How to Run
 -------------------------------
 1. Clone the Repository:
-   git clone https://github.com/yourusername/CustomerSegmentationApp.git
-   cd CustomerSegmentationApp
+   
 
 2. Install Dependencies:
    pip install -r requirements.txt
@@ -59,16 +58,3 @@ CustomerSegmentationApp/
 - User inputs their gender, age, income, and spending score.
 - The app uses a scaler to normalize the data before prediction.
 - The cluster label and cluster distances are shown with a confidence score.
-
--------------------------------
-📄 License
--------------------------------
-This project is licensed under the MIT License.
-
--------------------------------
-👤 Author
--------------------------------
-Developed by [Your Name] - Data Science & AI Enthusiast
-
-UI inspired by modern dashboards  
-Model trained on the Mall Customer Segmentation dataset
