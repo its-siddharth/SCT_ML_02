@@ -1,0 +1,15 @@
+For Model :-
+os
+pandas
+joblib
+warning
+matplotlib
+sklearn
+seborn
+sklearn
+
+For Web :-
+os
+numpy
+joblib
+streamlit
